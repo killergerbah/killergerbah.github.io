@@ -1,0 +1,8 @@
+---
+---
+
+$dm-link-base-color: #dec1ff;
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";

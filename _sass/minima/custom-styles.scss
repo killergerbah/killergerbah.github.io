@@ -1,0 +1,45 @@
+.site-header {
+    border-top: 0;
+}
+
+.site-title {
+    position: absolute;
+    left: 16px;
+    font-family: Courier, monospace
+}
+
+.site-title:hover {
+    text-decoration: none;
+    color: #dec1ff;
+}
+
+.site-nav {
+    position: absolute;
+    right: 16px;
+    float: none;
+    top: 0;
+    font-family: Courier, monospace
+}
+
+@media screen and (max-width: 600px) {
+    .wrapper > .site-nav {
+        position: absolute;
+        top: 9px;
+    }
+}
+
+.page-link {
+    display: inline-block;
+    padding: 8px !important;
+}
+
+.page-link:hover {
+    text-decoration: none;
+    color: #dec1ff;
+    background: #222;
+    border-radius: 4px;
+}
+
+.post-link:hover {
+    text-decoration: none;
+}
