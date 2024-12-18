@@ -115,7 +115,7 @@ msgstr ""
 "---"
 
 msgid "A BluRay subtitle file parser for the browser. I wrote this to support BluRay subtitle files in asbplayer."
-msgstr "BluRay字幕形式ファイルのパーサーです。asbplayerがBluRay字幕形式のファイルを対応できるようにするために書いたブラウザー用のライブラリです。"
+msgstr "BluRay字幕形式ファイルのパーサーです。asbplayerがBluRay字幕形式のファイルに対応させるために書いたブラウザー用のライブラリです。"
 
 msgid "A card collector RPG similar to Puzzles and Dragons. I was one of two engineers responsible for the game's backend."
 msgstr "Puzzles and Dragonsを連想させるガチャゲームです。二人組のチームでゲームのバックエンドを任されていました。"
@@ -153,7 +153,7 @@ msgid "N3TWORK's foray into web3 gaming using Legendary IP. I was responsible fo
 msgstr "LegendaryのIPを使った、N3TWORKの初のweb3ゲームです。主任エンジニアとして、スマートコントラクト、ユーザー認証、マーケットプレイス、支払いなど、全部のweb3機能の開発を任されました。"
 
 msgid "Tetris had a realtime component to support various multiplayer game modes, including one that regularly saw traffic of on the order of 10,000 concurrent connections. I took point on many user-facing and non-user-facing systems ranging from matchmaking to deployment of our realtime servers."
-msgstr "マルチプレイヤーゲームモードを対応するためにリアルタイム通信が使われていたゲームです。マッチメーキングからライルタイムサーバーのデプロイメントまで、ユーザー向けとそうじゃない機能を主な貢献者として開発しました。"
+msgstr "マルチプレイヤーゲームモードに対応するためにリアルタイム通信が使われていたゲームです。マッチメーキングからライルタイムサーバーのデプロイメントまで、ユーザー向けとそうじゃない機能を主な貢献者として開発しました。"
 
 msgid ""
 "That's why I created this website. Partly as a way to advocate for myself and increase my\n"

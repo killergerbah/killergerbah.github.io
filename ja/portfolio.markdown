@@ -16,7 +16,7 @@ lang: ja
 
 ### [pgs-parser](https://github.com/killergerbah/pgs-parser){:target="_blank"}
 
-BluRay字幕形式ファイルのパーサーです。asbplayerがBluRay字幕形式のファイルを対応できるようにするために書いたブラウザー用のライブラリです。
+BluRay字幕形式ファイルのパーサーです。asbplayerがBluRay字幕形式のファイルに対応させるために書いたブラウザー用のライブラリです。
 
 
 ## 動画編集
@@ -45,7 +45,7 @@ Puzzles and Dragonsを連想させるガチャゲームです。二人組のチ�
 
 #### Tetris
 
-マルチプレイヤーゲームモードを対応するためにリアルタイム通信が使われていたゲームです。マッチメーキングからライルタイムサーバーのデプロイメントまで、ユーザー向けとそうじゃない機能を主な貢献者として開発しました。 
+マルチプレイヤーゲームモードに対応するためにリアルタイム通信が使われていたゲームです。マッチメーキングからライルタイムサーバーのデプロイメントまで、ユーザー向けとそうじゃない機能を主な貢献者として開発しました。 
 
 #### [Legendary: Heroes Unchained](https://www.legendaryheroesunchained.com){:target="_blank"}
 
