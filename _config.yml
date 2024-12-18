@@ -23,4 +23,13 @@ minima:
     en: "%b %-d, %Y"
     ja: "%Y年%m月%-d日"
 
-exclude: ["Gemfile", "Gemfile.lock", "Rakefile", "LICENSE.md", "README.md"]
+exclude:
+    - "Gemfile"
+    - "Gemfile.lock"
+    - "Rakefile"
+    - "LICENSE.md"
+    - "README.md"
+    - "vendor/bundle/"
+    - "vendor/cache/"
+    - "vendor/gems/"
+    - "vendor/ruby/"
