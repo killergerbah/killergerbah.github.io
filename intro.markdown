@@ -2,6 +2,7 @@
 layout: page
 title: hello!
 permalink: /about/
+lang: en
 ---
 
 {:refdef: style="text-align: center;border-radius: 50%;"}

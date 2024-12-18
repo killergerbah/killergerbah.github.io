@@ -3,6 +3,7 @@ layout: post
 title:  "looking ahead"
 date:   2024-12-17 13:26:00 +0900
 categories: life
+lang: en
 ---
 
 Lately, one cannot help but feel as though the world is becoming a harder place to live in.

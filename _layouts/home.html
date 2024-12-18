@@ -11,18 +11,17 @@ layout: base
 
 
   {% if site.paginate %}
-    {% assign posts = paginator.posts %}
+    {% assign posts = paginator.posts | where: 'lang', page.lang %}
   {% else %}
-    {% assign posts = site.posts %}
+    {% assign posts = site.posts | where: 'lang', page.lang %}
   {% endif %}
-
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
     <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- assign date_format = site.minima.localized_date_formats[page.lang] | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>

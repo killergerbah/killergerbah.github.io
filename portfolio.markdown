@@ -3,6 +3,7 @@ layout: page
 title: portfolio
 permalink: /portfolio/
 hide_header: true
+lang: en
 ---
 
 ## open source software
@@ -60,5 +61,5 @@ Zynga Poker was one of Zynga's oldest games and featured a very old backend writ
 
 ## education
 
-I graduated in 2009 from Stanford University with a BS in mathematics.
+I graduated in 2013 from Stanford University with a BS in mathematics.
 
