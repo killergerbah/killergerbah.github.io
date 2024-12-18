@@ -2,9 +2,9 @@ title: <killergerbah>
 email: kgerbil@gmail.com
 description: >-
   My name is R-J. I like creating stuff and having thoughts about things.
-baseurl: ""
-url: ""
-github_username:  killergerbah
+domain: killergerbah.github.io
+url: https://killergerbah.github.io
+github_username: killergerbah
 
 plugins:
   - jekyll-feed
