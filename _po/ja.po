@@ -164,12 +164,11 @@ msgstr ""
 "読んでいただいてありがとうございました。よろしくお願いします。"
 
 msgid ""
-"The N1 is the most difficult level of the Japanese Language Proficiency Test. I passed it with a near-perfect score. As most Japanese language\n"
-"learners will tell you, this is not a precise representation of real Japanese language Proficiency, but I'm proud of this accomplishment\n"
+"The N1 is the most difficult level of the Japanese Language Proficiency Test. I passed it with a near-perfect score. Of course, this exam is not a precise representation of real Japanese language Proficiency, but I'm proud of this accomplishment\n"
 "nonetheless."
-msgstr "ほぼ満点の点数で合格しました。これで正確に日本語能力が測れるかどうかは別として、誇りに思っている結果です。"
+msgstr "ほぼ満点の点数で合格しました。この試験で正確に日本語能力が測れるかどうかは別として、誇りに思っている結果です。"
 
-msgid "When I was younger I  made a lot of frag videos for an old Quake 3 mod called Urban Terror. This is my last video and the one I'm most proud of."
+msgid "When I was younger I made a lot of frag videos for an old Quake 3 mod called Urban Terror. This is my last video and the one I'm most proud of."
 msgstr "まだ動画編集にハマっていたころに僕が作った最後のゲーム動画です。Urban Terrorという古いファーストパーソンシシューティングゲームが登場します。"
 
 msgid "While my focus has been in application servers, I consider myself to be a versatile generalist with experience using a wide breadth of technologies."

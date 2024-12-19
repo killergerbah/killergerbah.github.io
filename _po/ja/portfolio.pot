@@ -41,7 +41,7 @@ msgstr ""
 msgid "### [Fragic](https://www.youtube.com/watch?v=jqyDE1xfqWo){:target=\"_blank\"}"
 msgstr ""
 
-msgid "When I was younger I  made a lot of frag videos for an old Quake 3 mod called Urban Terror. This is my last video and the one I'm most proud of."
+msgid "When I was younger I made a lot of frag videos for an old Quake 3 mod called Urban Terror. This is my last video and the one I'm most proud of."
 msgstr ""
 
 msgid "## certifications"
@@ -51,8 +51,7 @@ msgid "### JLPT N1"
 msgstr ""
 
 msgid ""
-"The N1 is the most difficult level of the Japanese Language Proficiency Test. I passed it with a near-perfect score. As most Japanese language\n"
-"learners will tell you, this is not a precise representation of real Japanese language Proficiency, but I'm proud of this accomplishment\n"
+"The N1 is the most difficult level of the Japanese Language Proficiency Test. I passed it with a near-perfect score. Of course, this exam is not a precise representation of real Japanese language Proficiency, but I'm proud of this accomplishment\n"
 "nonetheless."
 msgstr ""
 
@@ -68,10 +67,10 @@ msgstr ""
 msgid "At N3TWORK I was primarily responsible for designing, building, and operating the backend components of N3TWORK's games as a member of very small teams. We used Java servers backed by DynamoDB and Redis, and used Apache Thrift to communicate with game clients."
 msgstr ""
 
-msgid "#### Legendary: Game of Heroes"
+msgid "#### [Legendary: Heroes Unchained](https://www.legendaryheroesunchained.com){:target=\"_blank\"}"
 msgstr ""
 
-msgid "A card collector RPG similar to Puzzles and Dragons. I was one of two engineers responsible for the game's backend."
+msgid "N3TWORK's foray into web3 gaming using Legendary IP. I was responsible for all of the game's web3 integrations, including the NFT smart contract, user authentication, the open marketplace, and payments."
 msgstr ""
 
 msgid "#### Tetris"
@@ -80,10 +79,10 @@ msgstr ""
 msgid "Tetris had a realtime component to support various multiplayer game modes, including one that regularly saw traffic of on the order of 10,000 concurrent connections. I took point on many user-facing and non-user-facing systems ranging from matchmaking to deployment of our realtime servers."
 msgstr ""
 
-msgid "#### [Legendary: Heroes Unchained](https://www.legendaryheroesunchained.com){:target=\"_blank\"}"
+msgid "#### Legendary: Game of Heroes"
 msgstr ""
 
-msgid "N3TWORK's foray into web3 gaming using Legendary IP. I was responsible for all of the game's web3 integrations, including the NFT smart contract, user authentication, the open marketplace, and payments."
+msgid "A card collector RPG similar to Puzzles and Dragons. I was one of two engineers responsible for the game's backend."
 msgstr ""
 
 msgid "### 2013-2017: Zynga"

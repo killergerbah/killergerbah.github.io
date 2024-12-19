@@ -12,12 +12,11 @@ lang: ja
 
 ### [asbplayer](https://github.com/killergerbah/asbplayer){:target="_blank"}
 
-ツールを使って真剣に言語学習に取り組んでいる言語学習者たちから人気を集めてきた Chrome 拡張機能です。 
+ツールを使って真剣に言語学習に取り組んでいる言語学習者たちから人気を集めてきた Chrome 拡張機能です。
 
 ### [pgs-parser](https://github.com/killergerbah/pgs-parser){:target="_blank"}
 
 BluRay字幕形式ファイルのパーサーです。asbplayerがBluRay字幕形式のファイルに対応させるために書いたブラウザー用のライブラリです。
-
 
 ## 動画編集
 
@@ -29,7 +28,7 @@ BluRay字幕形式ファイルのパーサーです。asbplayerがBluRay字幕�
 
 ### 日本語能力試験N1
 
-ほぼ満点の点数で合格しました。これで正確に日本語能力が測れるかどうかは別として、誇りに思っている結果です。
+ほぼ満点の点数で合格しました。この試験で正確に日本語能力が測れるかどうかは別として、誇りに思っている結果です。
 
 ## 職歴
 
@@ -39,17 +38,17 @@ BluRay字幕形式ファイルのパーサーです。asbplayerがBluRay字幕�
 
 N3TWORKでは、小規模のチームの一員として、ゲームのバックエンドの設計、実装、運用などが僕の責任で、DynamoDBやRedisをデータベースに、Apache Thriftをプロトコルに、Java で書かれたサーバーを開発し、使っていました。
 
-#### Legendary: Game of Heroes
-
-Puzzles and Dragonsを連想させるガチャゲームです。二人組のチームでゲームのバックエンドを任されていました。
-
-#### Tetris
-
-マルチプレイヤーゲームモードに対応するためにリアルタイム通信が使われていたゲームです。マッチメーキングからライルタイムサーバーのデプロイメントまで、ユーザー向けとそうじゃない機能を主な貢献者として開発しました。 
-
 #### [Legendary: Heroes Unchained](https://www.legendaryheroesunchained.com){:target="_blank"}
 
 LegendaryのIPを使った、N3TWORKの初のweb3ゲームです。主任エンジニアとして、スマートコントラクト、ユーザー認証、マーケットプレイス、支払いなど、全部のweb3機能の開発を任されました。
+
+#### Tetris
+
+マルチプレイヤーゲームモードに対応するためにリアルタイム通信が使われていたゲームです。マッチメーキングからライルタイムサーバーのデプロイメントまで、ユーザー向けとそうじゃない機能を主な貢献者として開発しました。
+
+#### Legendary: Game of Heroes
+
+Puzzles and Dragonsを連想させるガチャゲームです。二人組のチームでゲームのバックエンドを任されていました。
 
 ### 2013-2017: Zynga
 
@@ -60,4 +59,3 @@ Zyngaの最も古いゲームで、MySQLとMemcachedを使ったPHPのバック�
 ## 学歴
 
 2013年にスターンフォード大学の数学科を卒業しました。
-
