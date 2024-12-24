@@ -1,0 +1,12 @@
+<ul class="social-media-list">
+    <li>
+        <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
+            <svg class="svg-icon grey">
+                <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            </svg>
+        </a>
+    </li>
+{%- for entry in site.minima.social_links -%}
+  {%- include social-item.html item = entry -%}
+{%- endfor -%}
+</ul>
