@@ -24,7 +24,7 @@ lang: ja
 - スクロールバーを[scrollbar-width](https://developer.mozilla.org/en-US/docs/Web/CSS/scrollbar-width)のCSSプロパティーで隠します。
 - [scrollend](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollend_event)のイベントにサブスクライブし、`iframe`がスクロールの最終点に着いたタイミングに反応し、タッチのインプットが下の要素に届くように`iframe` をDOMから外します。
 
-数時間で、91行のコードによってちゃんと動くようになりました：
+数時間で、[91行のコード](https://github.com/killergerbah/asbplayer/commit/0f0b496c3015b19217081596f0bfb79f9df8d5dd){:target="\_blank"}によってちゃんと動くようになりました：
 
 <video controls width="100%" src="/assets/videos/swipeable-panel-in-asbplayer-2.mp4"></video>
 
