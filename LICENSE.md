@@ -1,10 +1,10 @@
-Files under `_posts` are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Files under `_posts` and `ja/_posts` are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 All other files are licensed under the MIT License:
 
 MIT License
 
-Copyright (c) [2024] [Raphael-Joel Lim]
+Copyright (c) 2024 Raphael-Joel Lim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
