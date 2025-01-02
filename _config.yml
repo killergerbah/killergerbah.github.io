@@ -1,9 +1,13 @@
 title: <killergerbah>
 email: kgerbil@gmail.com
 description: My name is R-J. I like creating stuff and having thoughts about things.
-localized_descriptions:
-  en: My name is R-J. I like creating stuff and having thoughts about things.
-  ja: R-Jです。物作りと考え事が好きです。
+localized:
+  descriptions:
+    en: My name is R-J. I like creating stuff and having thoughts about things.
+    ja: R-Jです。物作りと考え事が好きです。
+  disclaimers:
+    en: Views expressed are my own and do not reflect those of my employer.
+    ja: 掲載内容は僕自身の見解であり、所属する組織の立場を代表するものではありません。
 domain: killergerbah.github.io
 url: https://killergerbah.github.io
 github_username: killergerbah
@@ -26,12 +30,12 @@ minima:
     ja: "%Y年%m月%-d日"
 
 exclude:
-    - "Gemfile"
-    - "Gemfile.lock"
-    - "Rakefile"
-    - "LICENSE.md"
-    - "README.md"
-    - "vendor/bundle/"
-    - "vendor/cache/"
-    - "vendor/gems/"
-    - "vendor/ruby/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "Rakefile"
+  - "LICENSE.md"
+  - "README.md"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"

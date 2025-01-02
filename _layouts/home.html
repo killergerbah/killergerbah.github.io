@@ -6,7 +6,9 @@ layout: base
   {%- if page.title and page.hide_header != true -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
+  {%- assign disclaimer = site.localized.disclaimers[page.lang] -%}
+  {{ disclaimer }}
+  <p></p>
   {{ content }}
 
 
