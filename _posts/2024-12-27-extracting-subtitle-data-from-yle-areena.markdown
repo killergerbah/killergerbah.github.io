@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "extracting subtitle data from Yle Areena"
+title: "Extracting subtitle data from Yle Areena"
 date: 2025-01-02 02:23:00 +0900
 categories: engineering
 lang: en

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "looking ahead"
+title:  "Looking ahead"
 date:   2024-12-17 13:26:00 +0900
 categories: life
 lang: en

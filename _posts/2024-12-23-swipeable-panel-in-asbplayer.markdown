@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "a different approach to implementing swipeable panels in the browser"
+title: "A different approach to implementing swipeable panels in the browser"
 date: 2024-12-23 11:11:00 +0900
 categories: engineering
 lang: en

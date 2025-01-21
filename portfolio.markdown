@@ -6,40 +6,40 @@ hide_header: true
 lang: en
 ---
 
-## open source software
+## Open source software
 
 Below are projects for which I am the chief or sole contributor.
 
-### [asbplayer](https://github.com/killergerbah/asbplayer){:target="_blank"}
+### [asbplayer](https://github.com/killergerbah/asbplayer){:target="\_blank"}
 
 A popular Chrome extension and browser-based media player with features intended to help serious, tools-savvy language-learners.
 
-### [pgs-parser](https://github.com/killergerbah/pgs-parser){:target="_blank"}
+### [pgs-parser](https://github.com/killergerbah/pgs-parser){:target="\_blank"}
 
 A BluRay subtitle file parser for the browser. I wrote this to support BluRay subtitle files in asbplayer.
 
-## video editing
+## Video editing
 
-### [Fragic](https://www.youtube.com/watch?v=jqyDE1xfqWo){:target="_blank"}
+### [Fragic](https://www.youtube.com/watch?v=jqyDE1xfqWo){:target="\_blank"}
 
 When I was younger I made a lot of frag videos for an old Quake 3 mod called Urban Terror. This is my last video and the one I'm most proud of.
 
-## certifications
+## Certifications
 
 ### JLPT N1
 
 The N1 is the most difficult level of the Japanese Language Proficiency Test. I passed it with a near-perfect score. Of course, this exam is not a precise representation of real Japanese language Proficiency, but I'm proud of this accomplishment
 nonetheless.
 
-## professional experience
+## Professional experience
 
 While my focus has been in application servers, I consider myself to be a versatile generalist with experience using a wide breadth of technologies.
 
-### 2017-2024: N3TWORK Studios
+### 2017-2025: N3TWORK
 
 At N3TWORK I was primarily responsible for designing, building, and operating the backend components of N3TWORK's games as a member of very small teams. We used Java servers backed by DynamoDB and Redis, and used Apache Thrift to communicate with game clients.
 
-#### [Legendary: Heroes Unchained](https://www.legendaryheroesunchained.com){:target="_blank"}
+#### [Legendary: Heroes Unchained](https://www.legendaryheroesunchained.com){:target="\_blank"}
 
 N3TWORK's foray into web3 gaming using Legendary IP. I was responsible for all of the game's web3 integrations, including the NFT smart contract, user authentication, the open marketplace, and payments.
 
@@ -53,10 +53,10 @@ A card collector RPG similar to Puzzles and Dragons. I was one of two engineers 
 
 ### 2013-2017: Zynga
 
-#### [Zynga Poker](https://zyngapoker.com){:target="_blank"}
+#### [Zynga Poker](https://zyngapoker.com){:target="\_blank"}
 
 Zynga Poker was one of Zynga's oldest games and featured a very old backend written in PHP and backed by MySQL and Memcached. The poker simulation was implemented using a realtime server written in Java and JavaScript. I was mostly a feature developer but also spent a lot of time working on non-user-facing systems.
 
-## education
+## Education
 
 I graduated in 2013 from Stanford University with a BS in mathematics.
