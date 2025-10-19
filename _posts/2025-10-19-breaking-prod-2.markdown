@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Breaking prod chapter 2: disappearing friends"
-date: 2025-10-18 12:25:00 +0900
+date: 2025-10-19 12:25:00 +0900
 categories: engineering
 lang: en
 ---
