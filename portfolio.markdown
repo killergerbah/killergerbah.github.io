@@ -35,6 +35,10 @@ nonetheless.
 
 While my focus has been in application servers, I consider myself to be a versatile generalist with experience using a wide breadth of technologies.
 
+### 2025-Present: Limit Break
+
+Working on some pretty cool stuff as a member of an international team.
+
 ### 2017-2025: N3TWORK
 
 At N3TWORK I was primarily responsible for designing, building, and operating the backend components of N3TWORK's games as a member of very small teams. We used Java servers backed by DynamoDB and Redis, and used Apache Thrift to communicate with game clients.
